@@ -71,5 +71,3 @@ Titanic-EDA/
 ├── train.csv
 └── README.md
 ```
-
-⭐ This project is part of a learning journey in **Python, Data Analytics, and Machine Learning**.
